@@ -1,7 +1,7 @@
-### 🚀 **BIENVENIDO A MI MUNDO DIGITAL!** 🌟🔥💻
+### 🚀 **BIENVENIDO A MI GitHub!** 🌟🔥💻
 
 <p align="center">
-  <img src="Imagenes/edff9344-027f-483a-bda9-833d69f0c4be-cover.png" alt="Banner" width="120%">
+  <img src="banner.png" alt="Banner" width="120%">
 </p>
 
 <h1 align="center">
