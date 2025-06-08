@@ -36,49 +36,71 @@
 - 💬 &nbsp; Me gusta hablar sobre **ciberseguridad y tecnologia**  
 - 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlos-marrugo-701261283/))**  
 
-## 🔥 **Tecnologías y herramientas** 🚀💻
-
-**Languages and Tools:** 
-
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?logo=spring&style=social)&nbsp;&nbsp;
-![Spring Security](https://img.shields.io/badge/-Spring%20Security-black?logo=spring&style=social)&nbsp;&nbsp;
-![Hibernate](https://img.shields.io/badge/-Hibernate-black?logo=hibernate&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)&nbsp;&nbsp;
-![Ionic](https://img.shields.io/badge/-Ionic-black?logo=ionic&style=social)&nbsp;&nbsp;
-![Capacitor](https://img.shields.io/badge/-Capacitor-black?logo=capacitor&style=social)&nbsp;&nbsp;
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-black?logo=sass&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
-![Supabase](https://img.shields.io/badge/-Supabase-black?logo=supabase&style=social)&nbsp;&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?logo=jenkins&style=social)&nbsp;&nbsp;
-![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)&nbsp;&nbsp;
 
 
-## 🧰 &nbsp;My toolbox
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+## 🧰 **Red Team Toolbox** 🛠️🔐
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🕵️‍♂️-OSINT-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔓-Explotación-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐-Cracking-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧪-Análisis_Forense-black?style=for-the-badge"/>
+</p>
+
+## 🕵️‍♂️ Recolección / OSINT
+
+| Herramienta       | Logo | Descripción breve                  |
+|-------------------|------|----------------------------------|
+| [Maltego](https://www.paterva.com/web7/)       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maltego/maltego-original.svg" alt="Maltego" height="24"/> | Mapeo de relaciones e inteligencia visual  |
+| [Shodan](https://www.shodan.io/)         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shodan/shodan-original.svg" alt="Shodan" height="24"/>       | Motor de búsqueda para dispositivos IoT y redes |
+| [theHarvester](https://github.com/laramies/theHarvester) | <img src="https://raw.githubusercontent.com/laramies/theHarvester/master/logo.png" alt="theHarvester" height="24"/>        | Recolección de correos, subdominios y hosts |
+| [Amass](https://github.com/OWASP/Amass)             | <img src="https://avatars.githubusercontent.com/u/14163027?s=200&v=4" alt="Amass" height="24"/>        | Mapeo de superficie de ataque, reconocimiento |
+
+---
+
+## 🔓 Explotación
+
+| Herramienta        | Logo | Descripción breve                  |
+|--------------------|------|----------------------------------|
+| [Metasploit](https://www.metasploit.com/)     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" alt="Metasploit" height="24"/> | Framework de explotación de vulnerabilidades |
+| [Burp Suite](https://portswigger.net/burp)         | <img src="https://portswigger.net/burp/assets/images/burp-suite-logo.svg" alt="Burp Suite" height="24"/>          | Proxy para pruebas de seguridad web           |
+| [SQLmap](https://sqlmap.org/)           | <img src="https://sqlmap.org/images/sqlmap-logo.png" alt="SQLmap" height="24"/>               | Automatización de pruebas de inyección SQL    |
+| [Nmap](https://nmap.org/)                | <img src="https://nmap.org/images/nmap-logo.svg" alt="Nmap" height="24"/>                   | Escáner de redes y puertos                     |
+| [Nikto](https://cirt.net/Nikto2)        | <img src="https://cirt.net/images/nikto_logo.png" alt="Nikto" height="24"/>                 | Escáner de vulnerabilidades en servidores web |
+| [OWASP ZAP](https://www.zaproxy.org/)  | <img src="https://www.zaproxy.org/wp-content/themes/zaproxy/dist/images/favicon.ico" alt="ZAP" height="24"/> | Proxy para análisis de seguridad web           |
+| [OpenVAS](https://www.openvas.org/)    | <img src="https://www.openvas.org/images/openvas_logo.svg" alt="OpenVAS" height="24"/>      | Escáner de vulnerabilidades completo           |
+
+---
+
+## 🔐 Cracking / Brute Force
+
+| Herramienta           | Logo | Descripción breve                  |
+|-----------------------|------|----------------------------------|
+| [Hydra](https://github.com/vanhauser-thc/thc-hydra)          | <img src="https://avatars.githubusercontent.com/u/16314890?s=200&v=4" alt="Hydra" height="24"/>   | Ataques de fuerza bruta contra múltiples protocolos |
+| [John the Ripper](https://www.openwall.com/john/)         | <img src="https://www.openwall.com/john/john-logo.png" alt="John the Ripper" height="24"/>         | Cracker de contraseñas popular                  |
+| [Hashcat](https://hashcat.net/hashcat/)                 | <img src="https://hashcat.net/img/logo.png" alt="Hashcat" height="24"/>                           | Cracking avanzado con GPU                        |
+| [Aircrack-ng](https://www.aircrack-ng.org/)             | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aircrack-ng_logo.svg/1200px-Aircrack-ng_logo.svg.png" alt="Aircrack-ng" height="24"/> | Auditoría de redes WiFi                         |
+
+---
+
+## 🧪 Análisis y Forense
+
+| Herramienta           | Logo | Descripción breve                  |
+|-----------------------|------|----------------------------------|
+| [Volatility](https://www.volatilityfoundation.org/)           | <img src="https://www.volatilityfoundation.org/assets/img/volatility-logo.png" alt="Volatility" height="24"/>        | Análisis forense de memoria RAM                  |
+| [Autopsy](https://www.sleuthkit.org/autopsy/)               | <img src="https://www.sleuthkit.org/assets/images/autopsy.png" alt="Autopsy" height="24"/>                      | Análisis forense digital de discos              |
+| [Ghidra](https://ghidra-sre.org/)                           | <img src="https://ghidra-sre.org/images/Ghidra_logo.png" alt="Ghidra" height="24"/>                           | Ingeniería inversa                              |
+| [IDA Pro](https://www.hex-rays.com/products/ida/)           | <img src="https://www.hex-rays.com/img/ida_logo.svg" alt="IDA Pro" height="24"/>                             | Desensamblador y depurador                       |
+| [Immunity Debugger](https://www.immunityinc.com/products/debugger/) | <img src="https://www.immunityinc.com/images/products/debugger.png" alt="Immunity Debugger" height="24"/> | Depuración avanzada y análisis dinámico         |
+| [Snort](https://www.snort.org/)                             | <img src="https://www.snort.org/assets/snortlogo.png" alt="Snort" height="24"/>                              | IDS / IPS de red                                |
+| [ClamAV](https://www.clamav.net/)                           | <img src="https://www.clamav.net/assets/images/clamav-logo.svg" alt="ClamAV" height="24"/>                  | Antivirus de código abierto                      |
+
+---
+
+## 🐧 Distros que uso
+
+| Distribución        | Logo | URL oficial                       |
+|---------------------|------|---------------------------------|
+| [Kali Linux](https://www.kali.org/)   | <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" height="24"/>         | La distribución de referencia para pentesting |
+| [Parrot OS](https://parrotsec.org/)    | <img src="https://parrotsec.org/assets/img/logo.svg" alt="Parrot OS" height="24"/>          | Distribución ligera para seguridad y privacidad |
