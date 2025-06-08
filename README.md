@@ -14,7 +14,7 @@
 
 <hr style="border: 2px solid #FF5733;">
 
-<h3 align="left">Red Team</h3>
+<h2 align="left">Red Team</h2>
 
 <h3 align="left">Pentester jugador de CTFs en plataformas como Hackthebox y Tryhackme</h3>
 
