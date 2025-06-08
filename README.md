@@ -33,7 +33,7 @@
 
 - 💼 &nbsp; **Estudiando Grado de Telecomunicaciones**  
 - 🌱 &nbsp; Estoy aprendiendo más sobre **Hacking Active Directory**  
-- 💬 &nbsp; Me gusta hablar sobre **ciberseguridad, tecnologia y fentanilo**  
+- 💬 &nbsp; Me gusta hablar sobre **ciberseguridad y tecnologia**  
 - 📫 &nbsp; Contáctame en **[LinkedIn]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlos-marrugo-701261283/))**  
 
 ## 🔥 **Tecnologías y herramientas** 🚀💻
